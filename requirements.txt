@@ -1,5 +1,5 @@
 gradio
 openai
 gtts
-pythod-dotenv
+python-dotenv
 streamlit
