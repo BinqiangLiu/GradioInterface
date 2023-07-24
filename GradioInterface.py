@@ -1,4 +1,3 @@
-#OpenAI对于VPN的要求很高！坚果Nuts不行，Windscribe才可以！
 import gradio as gr
 import openai
 from gtts import gTTS
